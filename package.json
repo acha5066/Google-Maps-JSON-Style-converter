@@ -1,0 +1,17 @@
+{
+  "name": "gm_json_style_converter",
+  "version": "1.0.0",
+  "description": "Converts JSON Google Maps styles to query string parameters that can be used on static maps",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Chappell",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "2.4.1",
+    "karma": "1.2.0",
+    "karma-chrome-launcher": "2.0.0",
+    "karma-jasmine": "1.0.2"
+  }
+}
